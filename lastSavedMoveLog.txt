@@ -1,0 +1,1095 @@
+---------------------------------------
+Total moves made: 1
+Move just made: Combined the King of Clubs with the Queen of Clubs
+Number of piles now in play: 5
+Piles in play: 
+Jack of Spades
+Seven of Diamonds
+King of Spades
+Queen of Clubs
+King of Clubs
+---------------------------------------
+Total moves made: 2
+Move just made: Combined the King of Clubs with the King of Spades
+Number of piles now in play: 4
+Piles in play: 
+Jack of Spades
+Seven of Diamonds
+King of Spades
+King of Clubs
+---------------------------------------
+Total moves made: 3
+Move just made: Dealt a card
+Number of piles now in play: 4
+Piles in play: 
+Jack of Spades
+Seven of Diamonds
+King of Clubs
+Six of Hearts
+---------------------------------------
+Total moves made: 4
+Move just made: Dealt a card
+Number of piles now in play: 5
+Piles in play: 
+Jack of Spades
+Seven of Diamonds
+King of Clubs
+Six of Hearts
+Seven of Hearts
+---------------------------------------
+Total moves made: 5
+Move just made: Combined the Seven of Hearts with the Seven of Diamonds
+Number of piles now in play: 5
+Piles in play: 
+Jack of Spades
+Seven of Diamonds
+King of Clubs
+Six of Hearts
+Seven of Hearts
+---------------------------------------
+Total moves made: 6
+Move just made: Dealt a card
+Number of piles now in play: 5
+Piles in play: 
+Jack of Spades
+Seven of Hearts
+King of Clubs
+Six of Hearts
+Ten of Diamonds
+---------------------------------------
+Total moves made: 7
+Move just made: Dealt a card
+Number of piles now in play: 6
+Piles in play: 
+Jack of Spades
+Seven of Hearts
+King of Clubs
+Six of Hearts
+Ten of Diamonds
+Ace of Clubs
+---------------------------------------
+Total moves made: 8
+Move just made: Combined the Ace of Clubs with the King of Clubs
+Number of piles now in play: 6
+Piles in play: 
+Jack of Spades
+Seven of Hearts
+King of Clubs
+Six of Hearts
+Ten of Diamonds
+Ace of Clubs
+---------------------------------------
+Total moves made: 9
+Move just made: Dealt a card
+Number of piles now in play: 6
+Piles in play: 
+Jack of Spades
+Seven of Hearts
+Ace of Clubs
+Six of Hearts
+Ten of Diamonds
+Ace of Spades
+---------------------------------------
+Total moves made: 10
+Move just made: Combined the Ace of Spades with the Ace of Clubs
+Number of piles now in play: 6
+Piles in play: 
+Jack of Spades
+Seven of Hearts
+Ace of Clubs
+Six of Hearts
+Ten of Diamonds
+Ace of Spades
+---------------------------------------
+Total moves made: 11
+Move just made: Dealt a card
+Number of piles now in play: 6
+Piles in play: 
+Jack of Spades
+Seven of Hearts
+Ace of Spades
+Six of Hearts
+Ten of Diamonds
+Four of Spades
+---------------------------------------
+Total moves made: 12
+Move just made: Combined the Four of Spades with the Ace of Spades
+Number of piles now in play: 6
+Piles in play: 
+Jack of Spades
+Seven of Hearts
+Ace of Spades
+Six of Hearts
+Ten of Diamonds
+Four of Spades
+---------------------------------------
+Total moves made: 13
+Move just made: Dealt a card
+Number of piles now in play: 6
+Piles in play: 
+Jack of Spades
+Seven of Hearts
+Four of Spades
+Six of Hearts
+Ten of Diamonds
+Five of Clubs
+---------------------------------------
+Total moves made: 14
+Move just made: Dealt a card
+Number of piles now in play: 7
+Piles in play: 
+Jack of Spades
+Seven of Hearts
+Four of Spades
+Six of Hearts
+Ten of Diamonds
+Five of Clubs
+Nine of Spades
+---------------------------------------
+Total moves made: 15
+Move just made: Dealt a card
+Number of piles now in play: 8
+Piles in play: 
+Jack of Spades
+Seven of Hearts
+Four of Spades
+Six of Hearts
+Ten of Diamonds
+Five of Clubs
+Nine of Spades
+Two of Spades
+---------------------------------------
+Total moves made: 16
+Move just made: Combined the Two of Spades with the Nine of Spades
+Number of piles now in play: 8
+Piles in play: 
+Jack of Spades
+Seven of Hearts
+Four of Spades
+Six of Hearts
+Ten of Diamonds
+Five of Clubs
+Nine of Spades
+Two of Spades
+---------------------------------------
+Total moves made: 17
+Move just made: Dealt a card
+Number of piles now in play: 8
+Piles in play: 
+Jack of Spades
+Seven of Hearts
+Four of Spades
+Six of Hearts
+Ten of Diamonds
+Five of Clubs
+Two of Spades
+Nine of Clubs
+---------------------------------------
+Total moves made: 18
+Move just made: Dealt a card
+Number of piles now in play: 9
+Piles in play: 
+Jack of Spades
+Seven of Hearts
+Four of Spades
+Six of Hearts
+Ten of Diamonds
+Five of Clubs
+Two of Spades
+Nine of Clubs
+Two of Clubs
+---------------------------------------
+Total moves made: 19
+Move just made: Combined the Two of Clubs with the Five of Clubs
+Number of piles now in play: 9
+Piles in play: 
+Jack of Spades
+Seven of Hearts
+Four of Spades
+Six of Hearts
+Ten of Diamonds
+Five of Clubs
+Two of Spades
+Nine of Clubs
+Two of Clubs
+---------------------------------------
+Total moves made: 20
+Move just made: Combined the Two of Spades with the Two of Clubs
+Number of piles now in play: 8
+Piles in play: 
+Jack of Spades
+Seven of Hearts
+Four of Spades
+Six of Hearts
+Ten of Diamonds
+Two of Clubs
+Two of Spades
+Nine of Clubs
+---------------------------------------
+Total moves made: 21
+Move just made: Combined the Two of Spades with the Four of Spades
+Number of piles now in play: 7
+Piles in play: 
+Jack of Spades
+Seven of Hearts
+Four of Spades
+Six of Hearts
+Ten of Diamonds
+Two of Spades
+Nine of Clubs
+---------------------------------------
+Total moves made: 22
+Move just made: Dealt a card
+Number of piles now in play: 7
+Piles in play: 
+Jack of Spades
+Seven of Hearts
+Two of Spades
+Six of Hearts
+Ten of Diamonds
+Nine of Clubs
+Ace of Hearts
+---------------------------------------
+Total moves made: 23
+Move just made: Combined the Ace of Hearts with the Six of Hearts
+Number of piles now in play: 7
+Piles in play: 
+Jack of Spades
+Seven of Hearts
+Two of Spades
+Six of Hearts
+Ten of Diamonds
+Nine of Clubs
+Ace of Hearts
+---------------------------------------
+Total moves made: 24
+Move just made: Dealt a card
+Number of piles now in play: 7
+Piles in play: 
+Jack of Spades
+Seven of Hearts
+Two of Spades
+Ace of Hearts
+Ten of Diamonds
+Nine of Clubs
+Five of Spades
+---------------------------------------
+Total moves made: 25
+Move just made: Dealt a card
+Number of piles now in play: 8
+Piles in play: 
+Jack of Spades
+Seven of Hearts
+Two of Spades
+Ace of Hearts
+Ten of Diamonds
+Nine of Clubs
+Five of Spades
+Six of Spades
+---------------------------------------
+Total moves made: 26
+Move just made: Combined the Six of Spades with the Five of Spades
+Number of piles now in play: 8
+Piles in play: 
+Jack of Spades
+Seven of Hearts
+Two of Spades
+Ace of Hearts
+Ten of Diamonds
+Nine of Clubs
+Five of Spades
+Six of Spades
+---------------------------------------
+Total moves made: 27
+Move just made: Dealt a card
+Number of piles now in play: 8
+Piles in play: 
+Jack of Spades
+Seven of Hearts
+Two of Spades
+Ace of Hearts
+Ten of Diamonds
+Nine of Clubs
+Six of Spades
+Queen of Hearts
+---------------------------------------
+Total moves made: 28
+Move just made: Dealt a card
+Number of piles now in play: 9
+Piles in play: 
+Jack of Spades
+Seven of Hearts
+Two of Spades
+Ace of Hearts
+Ten of Diamonds
+Nine of Clubs
+Six of Spades
+Queen of Hearts
+Seven of Spades
+---------------------------------------
+Total moves made: 29
+Move just made: Dealt a card
+Number of piles now in play: 10
+Piles in play: 
+Jack of Spades
+Seven of Hearts
+Two of Spades
+Ace of Hearts
+Ten of Diamonds
+Nine of Clubs
+Six of Spades
+Queen of Hearts
+Seven of Spades
+Three of Clubs
+---------------------------------------
+Total moves made: 30
+Move just made: Dealt a card
+Number of piles now in play: 11
+Piles in play: 
+Jack of Spades
+Seven of Hearts
+Two of Spades
+Ace of Hearts
+Ten of Diamonds
+Nine of Clubs
+Six of Spades
+Queen of Hearts
+Seven of Spades
+Three of Clubs
+Five of Diamonds
+---------------------------------------
+Total moves made: 31
+Move just made: Dealt a card
+Number of piles now in play: 12
+Piles in play: 
+Jack of Spades
+Seven of Hearts
+Two of Spades
+Ace of Hearts
+Ten of Diamonds
+Nine of Clubs
+Six of Spades
+Queen of Hearts
+Seven of Spades
+Three of Clubs
+Five of Diamonds
+Ten of Spades
+---------------------------------------
+Total moves made: 32
+Move just made: Combined the Ten of Spades with the Seven of Spades
+Number of piles now in play: 12
+Piles in play: 
+Jack of Spades
+Seven of Hearts
+Two of Spades
+Ace of Hearts
+Ten of Diamonds
+Nine of Clubs
+Six of Spades
+Queen of Hearts
+Seven of Spades
+Three of Clubs
+Five of Diamonds
+Ten of Spades
+---------------------------------------
+Total moves made: 33
+Move just made: Dealt a card
+Number of piles now in play: 12
+Piles in play: 
+Jack of Spades
+Seven of Hearts
+Two of Spades
+Ace of Hearts
+Ten of Diamonds
+Nine of Clubs
+Six of Spades
+Queen of Hearts
+Ten of Spades
+Three of Clubs
+Five of Diamonds
+Eight of Diamonds
+---------------------------------------
+Total moves made: 34
+Move just made: Combined the Eight of Diamonds with the Five of Diamonds
+Number of piles now in play: 12
+Piles in play: 
+Jack of Spades
+Seven of Hearts
+Two of Spades
+Ace of Hearts
+Ten of Diamonds
+Nine of Clubs
+Six of Spades
+Queen of Hearts
+Ten of Spades
+Three of Clubs
+Five of Diamonds
+Eight of Diamonds
+---------------------------------------
+Total moves made: 35
+Move just made: Dealt a card
+Number of piles now in play: 12
+Piles in play: 
+Jack of Spades
+Seven of Hearts
+Two of Spades
+Ace of Hearts
+Ten of Diamonds
+Nine of Clubs
+Six of Spades
+Queen of Hearts
+Ten of Spades
+Three of Clubs
+Eight of Diamonds
+Nine of Hearts
+---------------------------------------
+Total moves made: 36
+Move just made: Dealt a card
+Number of piles now in play: 13
+Piles in play: 
+Jack of Spades
+Seven of Hearts
+Two of Spades
+Ace of Hearts
+Ten of Diamonds
+Nine of Clubs
+Six of Spades
+Queen of Hearts
+Ten of Spades
+Three of Clubs
+Eight of Diamonds
+Nine of Hearts
+Nine of Diamonds
+---------------------------------------
+Total moves made: 37
+Move just made: Combined the Nine of Diamonds with the Nine of Hearts
+Number of piles now in play: 13
+Piles in play: 
+Jack of Spades
+Seven of Hearts
+Two of Spades
+Ace of Hearts
+Ten of Diamonds
+Nine of Clubs
+Six of Spades
+Queen of Hearts
+Ten of Spades
+Three of Clubs
+Eight of Diamonds
+Nine of Hearts
+Nine of Diamonds
+---------------------------------------
+Total moves made: 38
+Move just made: Combined the Nine of Diamonds with the Eight of Diamonds
+Number of piles now in play: 12
+Piles in play: 
+Jack of Spades
+Seven of Hearts
+Two of Spades
+Ace of Hearts
+Ten of Diamonds
+Nine of Clubs
+Six of Spades
+Queen of Hearts
+Ten of Spades
+Three of Clubs
+Eight of Diamonds
+Nine of Diamonds
+---------------------------------------
+Total moves made: 39
+Move just made: Dealt a card
+Number of piles now in play: 12
+Piles in play: 
+Jack of Spades
+Seven of Hearts
+Two of Spades
+Ace of Hearts
+Ten of Diamonds
+Nine of Clubs
+Six of Spades
+Queen of Hearts
+Ten of Spades
+Three of Clubs
+Nine of Diamonds
+Ten of Hearts
+---------------------------------------
+Total moves made: 40
+Move just made: Combined the Ten of Hearts with the Ten of Spades
+Number of piles now in play: 12
+Piles in play: 
+Jack of Spades
+Seven of Hearts
+Two of Spades
+Ace of Hearts
+Ten of Diamonds
+Nine of Clubs
+Six of Spades
+Queen of Hearts
+Ten of Spades
+Three of Clubs
+Nine of Diamonds
+Ten of Hearts
+---------------------------------------
+Total moves made: 41
+Move just made: Combined the Ten of Hearts with the Queen of Hearts
+Number of piles now in play: 11
+Piles in play: 
+Jack of Spades
+Seven of Hearts
+Two of Spades
+Ace of Hearts
+Ten of Diamonds
+Nine of Clubs
+Six of Spades
+Queen of Hearts
+Ten of Hearts
+Three of Clubs
+Nine of Diamonds
+---------------------------------------
+Total moves made: 42
+Move just made: Combined the Ten of Hearts with the Ten of Diamonds
+Number of piles now in play: 10
+Piles in play: 
+Jack of Spades
+Seven of Hearts
+Two of Spades
+Ace of Hearts
+Ten of Diamonds
+Nine of Clubs
+Six of Spades
+Ten of Hearts
+Three of Clubs
+Nine of Diamonds
+---------------------------------------
+Total moves made: 43
+Move just made: Combined the Ten of Hearts with the Seven of Hearts
+Number of piles now in play: 9
+Piles in play: 
+Jack of Spades
+Seven of Hearts
+Two of Spades
+Ace of Hearts
+Ten of Hearts
+Nine of Clubs
+Six of Spades
+Three of Clubs
+Nine of Diamonds
+---------------------------------------
+Total moves made: 44
+Move just made: Combined the Six of Spades with the Two of Spades
+Number of piles now in play: 8
+Piles in play: 
+Jack of Spades
+Ten of Hearts
+Two of Spades
+Ace of Hearts
+Nine of Clubs
+Six of Spades
+Three of Clubs
+Nine of Diamonds
+---------------------------------------
+Total moves made: 45
+Move just made: Combined the Three of Clubs with the Nine of Clubs
+Number of piles now in play: 7
+Piles in play: 
+Jack of Spades
+Ten of Hearts
+Six of Spades
+Ace of Hearts
+Nine of Clubs
+Three of Clubs
+Nine of Diamonds
+---------------------------------------
+Total moves made: 46
+Move just made: Dealt a card
+Number of piles now in play: 7
+Piles in play: 
+Jack of Spades
+Ten of Hearts
+Six of Spades
+Ace of Hearts
+Three of Clubs
+Nine of Diamonds
+Three of Hearts
+---------------------------------------
+Total moves made: 47
+Move just made: Combined the Three of Hearts with the Ace of Hearts
+Number of piles now in play: 7
+Piles in play: 
+Jack of Spades
+Ten of Hearts
+Six of Spades
+Ace of Hearts
+Three of Clubs
+Nine of Diamonds
+Three of Hearts
+---------------------------------------
+Total moves made: 48
+Move just made: Combined the Three of Clubs with the Three of Hearts
+Number of piles now in play: 6
+Piles in play: 
+Jack of Spades
+Ten of Hearts
+Six of Spades
+Three of Hearts
+Three of Clubs
+Nine of Diamonds
+---------------------------------------
+Total moves made: 49
+Move just made: Dealt a card
+Number of piles now in play: 6
+Piles in play: 
+Jack of Spades
+Ten of Hearts
+Six of Spades
+Three of Clubs
+Nine of Diamonds
+Four of Hearts
+---------------------------------------
+Total moves made: 50
+Move just made: Dealt a card
+Number of piles now in play: 7
+Piles in play: 
+Jack of Spades
+Ten of Hearts
+Six of Spades
+Three of Clubs
+Nine of Diamonds
+Four of Hearts
+Jack of Clubs
+---------------------------------------
+Total moves made: 51
+Move just made: Combined the Jack of Clubs with the Three of Clubs
+Number of piles now in play: 7
+Piles in play: 
+Jack of Spades
+Ten of Hearts
+Six of Spades
+Three of Clubs
+Nine of Diamonds
+Four of Hearts
+Jack of Clubs
+---------------------------------------
+Total moves made: 52
+Move just made: Combined the Jack of Clubs with the Jack of Spades
+Number of piles now in play: 6
+Piles in play: 
+Jack of Spades
+Ten of Hearts
+Six of Spades
+Jack of Clubs
+Nine of Diamonds
+Four of Hearts
+---------------------------------------
+Total moves made: 53
+Move just made: Combined the Four of Hearts with the Ten of Hearts
+Number of piles now in play: 5
+Piles in play: 
+Jack of Clubs
+Ten of Hearts
+Six of Spades
+Nine of Diamonds
+Four of Hearts
+---------------------------------------
+Total moves made: 54
+Move just made: Dealt a card
+Number of piles now in play: 5
+Piles in play: 
+Jack of Clubs
+Four of Hearts
+Six of Spades
+Nine of Diamonds
+Jack of Diamonds
+---------------------------------------
+Total moves made: 55
+Move just made: Combined the Jack of Diamonds with the Nine of Diamonds
+Number of piles now in play: 5
+Piles in play: 
+Jack of Clubs
+Four of Hearts
+Six of Spades
+Nine of Diamonds
+Jack of Diamonds
+---------------------------------------
+Total moves made: 56
+Move just made: Combined the Jack of Diamonds with the Jack of Clubs
+Number of piles now in play: 4
+Piles in play: 
+Jack of Clubs
+Four of Hearts
+Six of Spades
+Jack of Diamonds
+---------------------------------------
+Total moves made: 57
+Move just made: Dealt a card
+Number of piles now in play: 4
+Piles in play: 
+Jack of Diamonds
+Four of Hearts
+Six of Spades
+King of Hearts
+---------------------------------------
+Total moves made: 58
+Move just made: Dealt a card
+Number of piles now in play: 5
+Piles in play: 
+Jack of Diamonds
+Four of Hearts
+Six of Spades
+King of Hearts
+Four of Clubs
+---------------------------------------
+Total moves made: 59
+Move just made: Combined the Four of Clubs with the Four of Hearts
+Number of piles now in play: 5
+Piles in play: 
+Jack of Diamonds
+Four of Hearts
+Six of Spades
+King of Hearts
+Four of Clubs
+---------------------------------------
+Total moves made: 60
+Move just made: Dealt a card
+Number of piles now in play: 5
+Piles in play: 
+Jack of Diamonds
+Four of Clubs
+Six of Spades
+King of Hearts
+Six of Diamonds
+---------------------------------------
+Total moves made: 61
+Move just made: Dealt a card
+Number of piles now in play: 6
+Piles in play: 
+Jack of Diamonds
+Four of Clubs
+Six of Spades
+King of Hearts
+Six of Diamonds
+Queen of Spades
+---------------------------------------
+Total moves made: 62
+Move just made: Combined the Queen of Spades with the Six of Spades
+Number of piles now in play: 6
+Piles in play: 
+Jack of Diamonds
+Four of Clubs
+Six of Spades
+King of Hearts
+Six of Diamonds
+Queen of Spades
+---------------------------------------
+Total moves made: 63
+Move just made: Dealt a card
+Number of piles now in play: 6
+Piles in play: 
+Jack of Diamonds
+Four of Clubs
+Queen of Spades
+King of Hearts
+Six of Diamonds
+Three of Spades
+---------------------------------------
+Total moves made: 64
+Move just made: Combined the Three of Spades with the Queen of Spades
+Number of piles now in play: 6
+Piles in play: 
+Jack of Diamonds
+Four of Clubs
+Queen of Spades
+King of Hearts
+Six of Diamonds
+Three of Spades
+---------------------------------------
+Total moves made: 65
+Move just made: Dealt a card
+Number of piles now in play: 6
+Piles in play: 
+Jack of Diamonds
+Four of Clubs
+Three of Spades
+King of Hearts
+Six of Diamonds
+Ten of Clubs
+---------------------------------------
+Total moves made: 66
+Move just made: Dealt a card
+Number of piles now in play: 7
+Piles in play: 
+Jack of Diamonds
+Four of Clubs
+Three of Spades
+King of Hearts
+Six of Diamonds
+Ten of Clubs
+Six of Clubs
+---------------------------------------
+Total moves made: 67
+Move just made: Combined the Six of Clubs with the Ten of Clubs
+Number of piles now in play: 7
+Piles in play: 
+Jack of Diamonds
+Four of Clubs
+Three of Spades
+King of Hearts
+Six of Diamonds
+Ten of Clubs
+Six of Clubs
+---------------------------------------
+Total moves made: 68
+Move just made: Combined the Six of Clubs with the Six of Diamonds
+Number of piles now in play: 6
+Piles in play: 
+Jack of Diamonds
+Four of Clubs
+Three of Spades
+King of Hearts
+Six of Diamonds
+Six of Clubs
+---------------------------------------
+Total moves made: 69
+Move just made: Combined the Six of Clubs with the Four of Clubs
+Number of piles now in play: 5
+Piles in play: 
+Jack of Diamonds
+Four of Clubs
+Three of Spades
+King of Hearts
+Six of Clubs
+---------------------------------------
+Total moves made: 70
+Move just made: Dealt a card
+Number of piles now in play: 5
+Piles in play: 
+Jack of Diamonds
+Six of Clubs
+Three of Spades
+King of Hearts
+Eight of Spades
+---------------------------------------
+Total moves made: 71
+Move just made: Dealt a card
+Number of piles now in play: 6
+Piles in play: 
+Jack of Diamonds
+Six of Clubs
+Three of Spades
+King of Hearts
+Eight of Spades
+Five of Hearts
+---------------------------------------
+Total moves made: 72
+Move just made: Dealt a card
+Number of piles now in play: 7
+Piles in play: 
+Jack of Diamonds
+Six of Clubs
+Three of Spades
+King of Hearts
+Eight of Spades
+Five of Hearts
+Eight of Hearts
+---------------------------------------
+Total moves made: 73
+Move just made: Combined the Eight of Hearts with the King of Hearts
+Number of piles now in play: 7
+Piles in play: 
+Jack of Diamonds
+Six of Clubs
+Three of Spades
+King of Hearts
+Eight of Spades
+Five of Hearts
+Eight of Hearts
+---------------------------------------
+Total moves made: 74
+Move just made: Combined the Eight of Spades with the Eight of Hearts
+Number of piles now in play: 6
+Piles in play: 
+Jack of Diamonds
+Six of Clubs
+Three of Spades
+Eight of Hearts
+Eight of Spades
+Five of Hearts
+---------------------------------------
+Total moves made: 75
+Move just made: Combined the Eight of Spades with the Three of Spades
+Number of piles now in play: 5
+Piles in play: 
+Jack of Diamonds
+Six of Clubs
+Three of Spades
+Eight of Spades
+Five of Hearts
+---------------------------------------
+Total moves made: 76
+Move just made: Dealt a card
+Number of piles now in play: 5
+Piles in play: 
+Jack of Diamonds
+Six of Clubs
+Eight of Spades
+Five of Hearts
+Two of Hearts
+---------------------------------------
+Total moves made: 77
+Move just made: Combined the Two of Hearts with the Five of Hearts
+Number of piles now in play: 5
+Piles in play: 
+Jack of Diamonds
+Six of Clubs
+Eight of Spades
+Five of Hearts
+Two of Hearts
+---------------------------------------
+Total moves made: 78
+Move just made: Dealt a card
+Number of piles now in play: 5
+Piles in play: 
+Jack of Diamonds
+Six of Clubs
+Eight of Spades
+Two of Hearts
+Jack of Hearts
+---------------------------------------
+Total moves made: 79
+Move just made: Combined the Jack of Hearts with the Two of Hearts
+Number of piles now in play: 5
+Piles in play: 
+Jack of Diamonds
+Six of Clubs
+Eight of Spades
+Two of Hearts
+Jack of Hearts
+---------------------------------------
+Total moves made: 80
+Move just made: Combined the Jack of Hearts with the Jack of Diamonds
+Number of piles now in play: 4
+Piles in play: 
+Jack of Diamonds
+Six of Clubs
+Eight of Spades
+Jack of Hearts
+---------------------------------------
+Total moves made: 81
+Move just made: Dealt a card
+Number of piles now in play: 4
+Piles in play: 
+Jack of Hearts
+Six of Clubs
+Eight of Spades
+Eight of Clubs
+---------------------------------------
+Total moves made: 82
+Move just made: Combined the Eight of Clubs with the Eight of Spades
+Number of piles now in play: 4
+Piles in play: 
+Jack of Hearts
+Six of Clubs
+Eight of Spades
+Eight of Clubs
+---------------------------------------
+Total moves made: 83
+Move just made: Combined the Eight of Clubs with the Six of Clubs
+Number of piles now in play: 3
+Piles in play: 
+Jack of Hearts
+Six of Clubs
+Eight of Clubs
+---------------------------------------
+Total moves made: 84
+Move just made: Dealt a card
+Number of piles now in play: 3
+Piles in play: 
+Jack of Hearts
+Eight of Clubs
+Two of Diamonds
+---------------------------------------
+Total moves made: 85
+Move just made: Dealt a card
+Number of piles now in play: 4
+Piles in play: 
+Jack of Hearts
+Eight of Clubs
+Two of Diamonds
+Seven of Clubs
+---------------------------------------
+Total moves made: 86
+Move just made: Dealt a card
+Number of piles now in play: 5
+Piles in play: 
+Jack of Hearts
+Eight of Clubs
+Two of Diamonds
+Seven of Clubs
+Queen of Diamonds
+---------------------------------------
+Total moves made: 87
+Move just made: Dealt a card
+Number of piles now in play: 6
+Piles in play: 
+Jack of Hearts
+Eight of Clubs
+Two of Diamonds
+Seven of Clubs
+Queen of Diamonds
+King of Diamonds
+---------------------------------------
+Total moves made: 88
+Move just made: Combined the King of Diamonds with the Two of Diamonds
+Number of piles now in play: 6
+Piles in play: 
+Jack of Hearts
+Eight of Clubs
+Two of Diamonds
+Seven of Clubs
+Queen of Diamonds
+King of Diamonds
+---------------------------------------
+Total moves made: 89
+Move just made: Dealt a card
+Number of piles now in play: 6
+Piles in play: 
+Jack of Hearts
+Eight of Clubs
+King of Diamonds
+Seven of Clubs
+Queen of Diamonds
+Ace of Diamonds
+---------------------------------------
+Total moves made: 90
+Move just made: Combined the Ace of Diamonds with the King of Diamonds
+Number of piles now in play: 6
+Piles in play: 
+Jack of Hearts
+Eight of Clubs
+King of Diamonds
+Seven of Clubs
+Queen of Diamonds
+Ace of Diamonds
+---------------------------------------
+Total moves made: 91
+Move just made: Dealt a card
+Number of piles now in play: 6
+Piles in play: 
+Jack of Hearts
+Eight of Clubs
+Ace of Diamonds
+Seven of Clubs
+Queen of Diamonds
+Four of Diamonds
+---------------------------------------
+Total moves made: 92
+Move just made: Combined the Four of Diamonds with the Ace of Diamonds
+Number of piles now in play: 6
+Piles in play: 
+Jack of Hearts
+Eight of Clubs
+Ace of Diamonds
+Seven of Clubs
+Queen of Diamonds
+Four of Diamonds
+
